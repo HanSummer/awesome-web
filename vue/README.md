@@ -1,4 +1,4 @@
-# Vue 学习资源：https://github.com/vuejs/vuejs.org
+# Vue 学习资源 https://github.com/vuejs/vuejs.org
 
 * vue：https://github.com/vuejs/vue
 
