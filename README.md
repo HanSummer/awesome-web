@@ -1,3 +1,3 @@
 # awesome-web
 
-## Vue Resources
+A list resources of web
