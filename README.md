@@ -1,6 +1,6 @@
 # awesome-web
 
-A list resources of web
+  A list resources of web
 
 * https://github.com
 
