@@ -1,12 +1,12 @@
 # Vue 学习资源 https://github.com/vuejs/vuejs.org
 
-***** vue：https://github.com/vuejs/vue
+<p>vue：https://github.com/vuejs/vue</p>
 
-***** vue-router：https://github.com/vuejs/vue-router
+<p>vue-router：https://github.com/vuejs/vue-router</p>
 
-***** vuex：https://github.com/vuejs/vuex
+<p>vuex：https://github.com/vuejs/vuex</p>
 
-***** awesome-vue：https://github.com/vuejs/awesome-vue
+<p>awesome-vue：https://github.com/vuejs/awesome-vue</p>
 
 * 类似vue框架：https://github.com/ygm125/evo 
 
