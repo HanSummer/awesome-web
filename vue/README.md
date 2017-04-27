@@ -15,3 +15,5 @@
 * vuejs+vuex+requirejs配合实现模块化: http://www.51xuediannao.com/javascript/vuejs_vuex_requirejs.html
 
 * 基于requirejs的vue2项目 (一): https://segmentfault.com/a/1190000008611570
+
+* vuex文档: http://vuex.vuejs.org/zh-cn/intro.html
