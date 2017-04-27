@@ -10,4 +10,6 @@
 
 ## Modular programming
 
-* http://www.ruanyifeng.com/blog/2012/10/asynchronous_module_definition.html
+* 模块化理解: http://www.ruanyifeng.com/blog/2012/10/asynchronous_module_definition.html
+
+* RequireJS进阶:配置文件的学习: https://segmentfault.com/a/1190000002401665
