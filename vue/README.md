@@ -19,3 +19,5 @@
 * vuex文档: http://vuex.vuejs.org/zh-cn/intro.html
 
 * vuex透彻理解: https://zhuanlan.zhihu.com/p/24357762
+
+* Vue-router 源码分析-整体流程: http://mt.sohu.com/20161206/n475119952.shtml
