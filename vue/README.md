@@ -11,3 +11,5 @@
 * 类似vue框架：https://github.com/ygm125/evo 
 
 * 打包Vue的正确姿势：http://cnodejs.org/topic/5833e104bde2b59e06141e16
+
+* vuejs+vuex+requirejs配合实现模块化: http://www.51xuediannao.com/javascript/vuejs_vuex_requirejs.html
