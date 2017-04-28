@@ -23,3 +23,7 @@
 * HTTP中GET与POST的区别: http://blog.csdn.net/sinat_25127047/article/details/52690959
 
 * Promise based HTTP client for the browser and node.js: https://github.com/mzabriskie/axios
+
+## NPM
+
+* 进行npm源地址的切换: https://github.com/Pana/nrm
