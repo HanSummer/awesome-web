@@ -22,6 +22,8 @@
 
 * HTTP中GET与POST的区别: http://blog.csdn.net/sinat_25127047/article/details/52690959
 
+* 关于HTTP协议，一篇就够了: http://www.cnblogs.com/ranyonsue/p/5984001.html
+
 * Promise based HTTP client for the browser and node.js: https://github.com/mzabriskie/axios
 
 ## NPM
