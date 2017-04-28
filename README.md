@@ -28,6 +28,8 @@
 
 * Promise based HTTP client for the browser and node.js: https://github.com/mzabriskie/axios
 
+* 理解RESTful架构: http://www.ruanyifeng.com/blog/2011/09/restful
+
 ## NPM
 
 * 进行npm源地址的切换: https://github.com/Pana/nrm
