@@ -24,6 +24,8 @@
 
 * 关于HTTP协议，一篇就够了: http://www.cnblogs.com/ranyonsue/p/5984001.html
 
+* TCP协议详解: http://www.jianshu.com/p/ef892323e68f
+
 * Promise based HTTP client for the browser and node.js: https://github.com/mzabriskie/axios
 
 ## NPM
