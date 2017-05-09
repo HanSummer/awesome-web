@@ -33,3 +33,7 @@
 * Vue-router 源码分析-整体流程: http://mt.sohu.com/20161206/n475119952.shtml
 
 * Vue2 dist 目录下各个文件的区别: https://www.mmxiaowu.com/article/58482558d4352863efb55475
+
+* Vue2 后台管理界面:
+
+    https://github.com/PanJiaChen/vue-element-admin
