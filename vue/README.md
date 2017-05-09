@@ -10,6 +10,16 @@
 
 * 类似vue框架：https://github.com/ygm125/evo 
 
+    Vue 一个 MVVM 框架、一个响应式的组件系统，通过把页面抽象成一个个组件来增加复用性、降低复杂性
+
+    主要特色就是数据操纵视图变化，一旦数据变化自动更新所有关联组件~
+
+    所以它的一大特性就是一个数据响应系统，当然有了数据还需要一个模板解析系统
+
+    即 HTMLParse 帮我们把数据模板生成最终的页面，但每次数据变动都重新生成 HTML 片段挂载到 DOM 性能肯定慢的没法说
+
+    所以还需要 Virtual DOM 把最少的变动应用到 DOM 上，以提升性能
+
 * 打包Vue的正确姿势：http://cnodejs.org/topic/5833e104bde2b59e06141e16
 
 * vuejs+vuex+requirejs配合实现模块化: http://www.51xuediannao.com/javascript/vuejs_vuex_requirejs.html
