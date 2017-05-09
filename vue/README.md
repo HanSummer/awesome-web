@@ -21,3 +21,5 @@
 * vuex透彻理解: https://zhuanlan.zhihu.com/p/24357762
 
 * Vue-router 源码分析-整体流程: http://mt.sohu.com/20161206/n475119952.shtml
+
+* Vue2 dist 目录下各个文件的区别: https://www.mmxiaowu.com/article/58482558d4352863efb55475
