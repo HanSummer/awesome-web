@@ -14,6 +14,8 @@
 
 * RequireJS进阶:配置文件的学习: https://segmentfault.com/a/1190000002401665
 
+* AMD、CMD、UMD 模块的写法: http://web.jobbole.com/82238/
+
 ## Router
 
 * 原生JS实现一个简单的前端路由（路由实现的原理）: http://blog.csdn.net/sunxinty/article/details/52586556
