@@ -41,3 +41,7 @@
 * facebook js 类型检查: https://flow.org/
 
 * Flow - JS静态类型检查工具: https://segmentfault.com/a/1190000008088489?utm_source=tuicool&utm_medium=referral
+
+## JS
+
+* JS学习系列 01 - 编译原理和作用域: https://segmentfault.com/a/1190000007991284
