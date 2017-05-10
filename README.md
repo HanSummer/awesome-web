@@ -63,3 +63,7 @@
 * 虚拟DOM：
 
   https://github.com/snabbdom/snabbdom
+  
+* 数据响应系统:
+
+  https://github.com/nx-js/observer-util
