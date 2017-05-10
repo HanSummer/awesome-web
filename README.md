@@ -45,3 +45,5 @@
 ## JS
 
 * JS学习系列 01 - 编译原理和作用域: https://segmentfault.com/a/1190000007991284
+
+* JavaScript模板引擎原理，几行代码的事儿: http://www.cnblogs.com/hustskyking/p/principle-of-javascript-template.html
