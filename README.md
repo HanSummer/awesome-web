@@ -35,3 +35,7 @@
 ## NPM
 
 * 进行npm源地址的切换: https://github.com/Pana/nrm
+
+## JS TYPE
+
+* facebook js 类型检查: https://flow.org/
