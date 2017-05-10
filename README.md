@@ -47,3 +47,7 @@
 * JS学习系列 01 - 编译原理和作用域: https://segmentfault.com/a/1190000007991284
 
 * JavaScript模板引擎原理，几行代码的事儿: http://www.cnblogs.com/hustskyking/p/principle-of-javascript-template.html
+
+* 你可能不知道的JavaScript的new Function()方法:
+
+  http://www.jb51.net/article/49103.htm
