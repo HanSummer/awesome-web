@@ -36,6 +36,10 @@
 
 * 进行npm源地址的切换: https://github.com/Pana/nrm
 
+## SVG
+
+* 使用SVG中的Symbol元素制作Icon: https://isux.tencent.com/16292.html
+
 ## JS TYPE
 
 * facebook js 类型检查: https://flow.org/
