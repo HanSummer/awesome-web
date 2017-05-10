@@ -8,7 +8,7 @@
 
 <p>awesome-vue：https://github.com/vuejs/awesome-vue</p>
 
-* 类似vue框架：https://github.com/ygm125/evo 
+* 类似vue框架：https://github.com/ygm125/evo  https://gmiam.com/post/evo.html
 
     Vue 一个 MVVM 框架、一个响应式的组件系统，通过把页面抽象成一个个组件来增加复用性、降低复杂性
 
