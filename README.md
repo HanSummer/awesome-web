@@ -59,3 +59,7 @@
 * 你可能不知道的JavaScript的new Function()方法:
 
   http://www.jb51.net/article/49103.htm
+  
+* 虚拟DOM：
+
+  https://github.com/snabbdom/snabbdom
