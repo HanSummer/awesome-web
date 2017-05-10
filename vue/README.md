@@ -38,6 +38,8 @@
 
     https://github.com/PanJiaChen/vue-element-admin
     
+    https://github.com/devjin0617/vue2-admin-lte
+    
 * Vue相关示例：
 
     http://vuejsexamples.com/
