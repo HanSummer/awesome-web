@@ -42,6 +42,10 @@
 
 * 使用SVG中的Symbol元素制作Icon: https://isux.tencent.com/16292.html
 
+## HTML
+
+* A list of everything that could go in the <head> of your document: https://github.com/joshbuchea/HEAD
+
 ## JS
 
 * JS学习系列 01 - 编译原理和作用域: https://segmentfault.com/a/1190000007991284
