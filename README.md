@@ -42,12 +42,6 @@
 
 * 使用SVG中的Symbol元素制作Icon: https://isux.tencent.com/16292.html
 
-## JS TYPE
-
-* facebook js 类型检查: https://flow.org/
-
-* Flow - JS静态类型检查工具: https://segmentfault.com/a/1190000008088489?utm_source=tuicool&utm_medium=referral
-
 ## JS
 
 * JS学习系列 01 - 编译原理和作用域: https://segmentfault.com/a/1190000007991284
@@ -74,6 +68,16 @@
 
   https://github.com/nx-js/observer-util
   
+* js类型检查
+  
+   facebook js 类型检查: https://flow.org/
+
+   Flow - JS静态类型检查工具: https://segmentfault.com/a/1190000008088489?utm_source=tuicool&utm_medium=referral
+   
 ## CSS
 
 * web app变革之rem: https://isux.tencent.com/web-app-rem.html
+
+## Replace jQuery
+
+* 你可能不需要 jQuery (You Might Not Need jQuery): https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md
