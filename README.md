@@ -89,3 +89,7 @@
 ## UI库
 
 * 饿了么: https://github.com/elemefe  https://github.com/ElemeFE/element
+
+## JS效果库
+
+* 数字变化动画: https://github.com/inorganik/countUp.js
