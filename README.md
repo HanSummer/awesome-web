@@ -85,3 +85,7 @@
 ## Replace jQuery
 
 * 你可能不需要 jQuery (You Might Not Need jQuery): https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md
+
+## UI库
+
+* 饿了么: https://github.com/elemefe
