@@ -93,3 +93,7 @@
 ## JS效果库
 
 * 数字变化动画: https://github.com/inorganik/countUp.js
+
+## hybird开发技术
+
+* 浅谈Hybrid技术的设计与实现: http://www.cnblogs.com/yexiaochai/p/4921635.html
