@@ -97,3 +97,5 @@
 ## hybird开发技术
 
 * 浅谈Hybrid技术的设计与实现: http://www.cnblogs.com/yexiaochai/p/4921635.html
+
+* Hybrid选型及设计原理: https://segmentfault.com/a/1190000002587623
