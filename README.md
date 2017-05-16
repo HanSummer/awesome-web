@@ -103,3 +103,7 @@
 * Hybrid APP混合开发的一些经验和总结: http://www.cnblogs.com/kingplus/p/5588339.html
 
 * Hybrid APP架构设计思路： https://segmentfault.com/a/1190000004263182
+
+## 浏览器兼容性
+
+* 浏览器兼容性处理大全： http://www.cnblogs.com/0351jiazhuang/p/4525354.html?utm_source=tuicool&utm_medium=referral
