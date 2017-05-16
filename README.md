@@ -99,3 +99,5 @@
 * 浅谈Hybrid技术的设计与实现: http://www.cnblogs.com/yexiaochai/p/4921635.html
 
 * Hybrid选型及设计原理: https://segmentfault.com/a/1190000002587623
+
+* Hybrid APP混合开发的一些经验和总结: http://www.cnblogs.com/kingplus/p/5588339.html
