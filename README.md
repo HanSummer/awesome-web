@@ -101,3 +101,5 @@
 * Hybrid选型及设计原理: https://segmentfault.com/a/1190000002587623
 
 * Hybrid APP混合开发的一些经验和总结: http://www.cnblogs.com/kingplus/p/5588339.html
+
+* Hybrid APP架构设计思路： https://segmentfault.com/a/1190000004263182
