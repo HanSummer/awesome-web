@@ -109,3 +109,7 @@
 ## 浏览器兼容性
 
 * 浏览器兼容性处理大全： http://www.cnblogs.com/0351jiazhuang/p/4525354.html?utm_source=tuicool&utm_medium=referral
+
+## 前后台交互工具
+
+* swagger是一个REST APIs文档生成工具： http://swagger.io/
