@@ -52,4 +52,4 @@
 
 * Vue UI:
 
-    饿了么UI： https://github.com/ElemeFE/element
+    https://github.com/ElemeFE/element
