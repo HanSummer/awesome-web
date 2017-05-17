@@ -18,6 +18,8 @@
 
 * AMD、CMD、UMD 模块的写法: http://web.jobbole.com/82238/
 
+* A tool for managing JavaScript projects with multiple packages: https://github.com/lerna/lerna
+
 ## Router
 
 * 原生JS实现一个简单的前端路由（路由实现的原理）: http://blog.csdn.net/sunxinty/article/details/52586556
