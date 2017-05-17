@@ -42,6 +42,10 @@
     
     https://github.com/taylorchen709/vue-admin
     
+* Vue2 web APP:
+
+    https://github.com/heruiwoniou/vue-requirejs-mobile-ui
+    
 * Vue相关示例：
 
     http://vuejsexamples.com/
