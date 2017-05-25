@@ -91,6 +91,8 @@
   干货分享：让你分分钟学会JS闭包: http://www.cnblogs.com/onepixel/p/5062456.html
   
   JS核心系列：浅谈函数的作用域: http://www.cnblogs.com/onepixel/p/5036369.html
+  
+  谈JS中的作用域链与原型链（1）： http://www.cnblogs.com/dadSheng/p/6412668.html
    
 ## CSS
 
