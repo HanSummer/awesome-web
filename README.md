@@ -87,6 +87,8 @@
 * js执行原理：
 
   深入理解JS 执行细节: http://www.cnblogs.com/onepixel/p/5090799.html
+  
+  干货分享：让你分分钟学会JS闭包: http://www.cnblogs.com/onepixel/p/5062456.html
    
 ## CSS
 
