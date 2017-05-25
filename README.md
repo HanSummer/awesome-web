@@ -83,6 +83,10 @@
 * js设计模式:
 
   Javascript常用的设计模式详解: http://www.cnblogs.com/tugenhua0707/p/5198407.html
+  
+* js执行原理：
+
+  深入理解JS 执行细节: http://www.cnblogs.com/onepixel/p/5090799.html
    
 ## CSS
 
