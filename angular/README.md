@@ -6,7 +6,7 @@
 
 <p>Angular1.X API: https://docs.angularjs.org/api/</p>
 
-Zone.js : http://www.cnblogs.com/whitewolf/p/zone-js.html
+Zone.js暴力之美 : http://www.cnblogs.com/whitewolf/p/zone-js.html
 
    ** zone.js为JavaScript提供了执行上下文，可以在异步任务之间进行持久性传递。
 
