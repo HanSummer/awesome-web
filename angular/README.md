@@ -12,5 +12,7 @@ Angular 2 应用的 8个主要构造块: http://www.07net01.com/2016/10/1689995.
 
   ** zone.js为JavaScript提供了执行上下文，可以在异步任务之间进行持久性传递。
 
-  ** zone.js的设计灵感来源于Dart语言，它描述JavaScript执行过程的上下文，可以在异步任务之间进行持久性传递，它类似于Java中的TLS（thread-local storage: 线程本地存储）技术，zone.js则是将TLS引入到JavaScript语言中的实现框架。
+  ** zone.js的设计灵感来源于Dart语言，它描述JavaScript执行过程的上下文，可以在异步任务之间进行持久性传递，它类似于Java中的TLS（thread-local storage: 线程本地存储）技术，zone.js则是将TLS引入到JavaScript语言中的实现框架。  
+
+Zone.js : http://www.cnblogs.com/whitewolf/p/zone-js.html
 
