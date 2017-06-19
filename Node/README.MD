@@ -3,3 +3,5 @@
 2.Node面试题: https://github.com/jimuyouyou/node-interview-questions
 
 3.node学习: https://nodeschool.io/
+
+4.Node.js 入门：http://cnodejs.org/getstart
