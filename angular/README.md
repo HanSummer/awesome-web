@@ -11,4 +11,6 @@ Zone.js暴力之美 : http://www.cnblogs.com/whitewolf/p/zone-js.html
    ** zone.js为JavaScript提供了执行上下文，可以在异步任务之间进行持久性传递。
 
    ** zone.js的设计灵感来源于Dart语言，它描述JavaScript执行过程的上下文，可以在异步任务之间进行持久性传递，它类似于Java中的TLS（thread-local storage: 线程本地存储）技术，zone.js则是将TLS引入到JavaScript语言中的实现框架。 
+   
+angular2+webpack+typescript技术栈学习过程 : http://www.jianshu.com/p/098b83745104
 
