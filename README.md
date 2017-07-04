@@ -93,6 +93,10 @@
   JS核心系列：浅谈函数的作用域: http://www.cnblogs.com/onepixel/p/5036369.html
   
   谈JS中的作用域链与原型链（1）： http://www.cnblogs.com/dadSheng/p/6412668.html
+  
+* js在线运行平台：
+
+  http://jsbin.com
    
 ## CSS
 
