@@ -14,3 +14,5 @@ Zone.js暴力之美 : http://www.cnblogs.com/whitewolf/p/zone-js.html
    
 angular2+webpack+typescript技术栈学习过程 : http://www.jianshu.com/p/098b83745104
 
+angular faq: https://github.com/semlinker/angular-faq
+
