@@ -20,3 +20,7 @@ angular faq: https://github.com/semlinker/angular-faq
 
 angular2技能图谱: https://github.com/TeamStuQ/skill-map
 
+angular2单项数据流: https://github.com/modern-javascript/angular2-data-flow
+
+angular2组件树生成器: https://github.com/compodoc/ngd
+
