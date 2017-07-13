@@ -18,3 +18,5 @@ angular faq: https://github.com/semlinker/angular-faq
 
 大漠穷秋github blog : https://github.com/MisterChangRay
 
+angular2技能图谱: https://github.com/TeamStuQ/skill-map
+
