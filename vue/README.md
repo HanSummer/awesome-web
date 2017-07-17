@@ -54,5 +54,7 @@
 
     https://github.com/ElemeFE/element
     
-    
+* Vue cli 
+
+    vue-cli#2.0项目结构分析: https://segmentfault.com/a/1190000007880723
   
