@@ -59,4 +59,7 @@
     vue-cli#2.0项目结构分析: https://segmentfault.com/a/1190000007880723
     
     vue-cli#2.0 webpack 配置分析: https://juejin.im/post/584e48b2ac502e006c74a120
-  
+    
+* Vue 源码分析
+
+    Vue.js 源码解析 https://github.com/answershuto/learnVue
