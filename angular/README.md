@@ -24,5 +24,5 @@ angular2单项数据流: https://github.com/modern-javascript/angular2-data-flow
 
 angular2组件树生成器: https://github.com/compodoc/ngd
 
-Angular 4.x FAQ修仙 https://segmentfault.com/a/1190000009099653
+Angular 4.x FAQ修仙 https://segmentfault.com/a/1190000009099653  https://github.com/semlinker/angular-faq
 
