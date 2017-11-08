@@ -97,6 +97,10 @@
 * js在线运行平台：
 
   http://jsbin.com
+  
+* 省市区数据库： 中国行政区划信息-区划代码数据库【省、市、区县、乡镇街道】三四级联动（GB/T 2260） http://jquerywidget.com/jquery-citys/
+
+  https://github.com/mumuy/data_location
    
 ## CSS
 
