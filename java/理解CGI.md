@@ -21,7 +21,7 @@ WEB服务器将根据CGI程序的类型决定数据向CGI程序的传送方式�
 CGI程序通过标准输入（STDIN）和标准输出（STDOUT）来进行输入输出。此外CGI程序还通过环境变量来得到输入，操作系统提供了许多环境变量，它们定义了程序的执行环境，应用程序可以存取它们。Web服务器和CGI接口又另外设置了一些环境变量，用来向CGI程序传递一些重要的参数。CGI的GET方法还通过环境变量QUERY-STRING向CGI程序传递Form中的数据。 下面是一些常用的CGI环境变量：
 
 | 变量名 | 描述 | 
-| :-: | - |
+| - | - |
 |CONTENT_TYPE|这个环境变量的值指示所传递来的信息的MIME类型。目前，环境变量CONTENT_TYPE一般都是：application/x-www-form-urlencoded,他表示数据来自于HTML表单。| 
 |CONTENT_LENGTH|如果服务器与CGI程序信息的传递方式是POST，这个环境变量即使从标准输入STDIN中可以读到的有效数据的字节数。这个环境变量在读取所输入的数据时必须使用。|
 |HTTP_COOKIE|客户机内的 COOKIE 内容。|
