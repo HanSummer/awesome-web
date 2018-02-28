@@ -2,9 +2,7 @@
 
 在java1996年发布,当年12月即发布了java bean1.00-A,有什么用呢?通过统一的规范可以设置对象的值(get,set方法),这是最初的java bean;
 
-在实际企业开发中,需要实现事务,安全,分布式,javabean就不好用了.
-
-sun公司就开始往上面堆功能,这里java bean就复杂为EJB;EJB功能强大,但是太重了.
+在实际企业开发中,需要实现事务,安全,分布式,javabean就不好用了.sun公司就开始往上面堆功能,这里java bean就复杂为EJB; EJB功能强大,但是太重了.
 
 此时出现DI(依赖注入),AOP(面向切面)技术,通过简单的java bean也能完成EJB的事情,这里的java bean简化为POJO;
 
