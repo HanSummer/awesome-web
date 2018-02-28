@@ -14,3 +14,11 @@ Docker中可能涉及到3个机器或者更多机器，一个运行docker命令�
 ### 菜鸟教程架构图
 
 ![](http://www.runoob.com/wp-content/uploads/2016/04/576507-docker1.png)
+
+### docker在windows 7上连接终端（ssh）
+
+首先需要知道是当前docker的虚拟IP地址：192.168.99.100
+
+查看C:\Users\Administrator\.docker\machine\machines\default 下的config.json文件
+
+这里的用户名默认是：docker  密码默认：tcuser  端口：22
