@@ -22,3 +22,7 @@ Docker中可能涉及到3个机器或者更多机器，一个运行docker命令�
 查看C:\Users\Administrator\.docker\machine\machines\default 下的config.json文件
 
 这里的用户名默认是：docker  密码默认：tcuser  端口：22
+
+### Docker使用pure-ftp的方法及配置
+
+http://blog.csdn.net/k21325/article/details/72844514
