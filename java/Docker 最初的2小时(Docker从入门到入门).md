@@ -30,3 +30,17 @@ http://blog.csdn.net/k21325/article/details/72844514
 ### Docker 与 Docker Machine 的区别
 
 https://www.cnblogs.com/sparkdev/p/7066789.html
+
+Docker 是一个 Client-Server 架构的应用，人家是有官称的：Docker Engine。Docker 只是大家对 Docker Engine 的昵称，当然 Docker 还有其他的意思，比如一家公司的名称。简单起见，本文中的 Docker 等同于 Docker Engine。
+
+提到 Docker 我们必须要知道它包含了三部分内容：
+
+1. Docker daemon
+2. 一套与 Docker daemon 交互的 REST API
+3. 一个命令行客户端
+
+下图很清晰的展示了它们之间的关系：
+
+![](https://images2015.cnblogs.com/blog/952033/201706/952033-20170622190650538-1960823992.png)
+
+Docker Machine 则是一个安装和管理 Docker 的工具。它有自己的命令行工具：docker-machine。
