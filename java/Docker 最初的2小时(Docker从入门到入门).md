@@ -26,3 +26,7 @@ Docker中可能涉及到3个机器或者更多机器，一个运行docker命令�
 ### Docker使用pure-ftp的方法及配置
 
 http://blog.csdn.net/k21325/article/details/72844514
+
+### Docker 与 Docker Machine 的区别
+
+https://www.cnblogs.com/sparkdev/p/7066789.html
