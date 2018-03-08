@@ -36,6 +36,8 @@
 
 * 理解RESTful架构: http://www.ruanyifeng.com/blog/2011/09/restful
 
+* 彻底弄懂HTTP缓存机制及原理: https://www.cnblogs.com/chenqf/p/6386163.html
+
 ## NPM
 
 * 进行npm源地址的切换: https://github.com/Pana/nrm
