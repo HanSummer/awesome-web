@@ -38,6 +38,10 @@
 
 * 彻底弄懂HTTP缓存机制及原理: https://www.cnblogs.com/chenqf/p/6386163.html
 
+## websocket
+
+* websocket教程（一） 非常有趣的理解websocket: https://www.cnblogs.com/tohxyblog/p/7112917.html
+
 ## NPM
 
 * 进行npm源地址的切换: https://github.com/Pana/nrm
