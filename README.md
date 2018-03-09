@@ -165,4 +165,6 @@
 
 * dwqs/blog: https://github.com/dwqs/blog/issues
 
+* Windows下的包管理器Chocolatey: https://www.jianshu.com/p/831aa4a280e7
+
 
