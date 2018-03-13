@@ -107,6 +107,8 @@
 * 省市区数据库： 中国行政区划信息-区划代码数据库【省、市、区县、乡镇街道】三四级联动（GB/T 2260） http://jquerywidget.com/jquery-citys/
 
   https://github.com/mumuy/data_location
+  
+* JS 详解 Cookie、 LocalStorage 与 SessionStorage： https://www.cnblogs.com/minigrasshopper/p/8064367.html
    
 ## CSS
 
