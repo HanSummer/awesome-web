@@ -22,6 +22,8 @@
 
 * js模块化编程之彻底弄懂CommonJS和AMD/CMD！ https://www.cnblogs.com/chenguangliang/p/5856701.html
 
+* javascript模块化之CommonJS、AMD、CMD、UMD、ES6  http://blog.csdn.net/Real_Bird/article/details/54869066
+
 ## Router
 
 * 原生JS实现一个简单的前端路由（路由实现的原理）: http://blog.csdn.net/sunxinty/article/details/52586556
