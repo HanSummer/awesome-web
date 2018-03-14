@@ -113,6 +113,8 @@
   https://github.com/mumuy/data_location
   
 * JS 详解 Cookie、 LocalStorage 与 SessionStorage： https://www.cnblogs.com/minigrasshopper/p/8064367.html
+
+* 跨域解决方案二：使用JSONP实现跨域： https://www.cnblogs.com/choon/p/5393682.html
    
 ## CSS
 
