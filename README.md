@@ -20,6 +20,8 @@
 
 * A tool for managing JavaScript projects with multiple packages: https://github.com/lerna/lerna
 
+* js模块化编程之彻底弄懂CommonJS和AMD/CMD！ https://www.cnblogs.com/chenguangliang/p/5856701.html
+
 ## Router
 
 * 原生JS实现一个简单的前端路由（路由实现的原理）: http://blog.csdn.net/sunxinty/article/details/52586556
