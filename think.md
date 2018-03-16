@@ -1,12 +1,12 @@
 ### 前端发展历程 
 
-1. 玉伯大神： https://github.com/lifesinger/blog/issues/184 
+1. **玉伯大神**： https://github.com/lifesinger/blog/issues/184 
 
 ### 长期阶段（这个基础没做起来，翻动起来消耗公司资源）
 
-1. 前端代码规范:  最基本，基本，基本  都没执行下去！
+1. **前端代码规范**:  最基本，基本，基本  都没执行下去！
 
-2. 前端工具集成： 
+2. **前端工具集成**： 
 
     代码管理工具(gitlab/git/svn)
     
@@ -18,21 +18,21 @@
     
     测试工具(karma,  protractor)
 
-3. UI设计:  样式框架(pc, app多端)
+3. **UI设计**:  样式框架(pc, app多端)
 
     视觉动画: https://ant.design/docs/spec/values-cn 
 
-3. 基础组件: 基于UI设计的样式框架的基础组件(pc, app多端)
+3. **基础组件**: 基于UI设计的样式框架的基础组件(pc, app多端)
 
     API完善:  https://ng.ant.design/#/docs/angular/introduce
 
-4. 业务组件: 基于【基础组件】和【业务需求】开发的业务组件(pc, app多端)
+4. **业务组件**: 基于【基础组件】和【业务需求】开发的业务组件(pc, app多端)
 
     业务组件: http://ng-alain.com/components/avatar-list
 
     基于业务组件的后台实际预览: https://cipchk.github.io/ng-alain/dashboard/v1
 
-5. 新技术调研，研究：(调动个人兴趣， 提升自我能力) 
+5. **新技术调研，研究**：调动个人兴趣， 提升自我能力 
 
     Docker技术:  https://segmentfault.com/a/1190000013468412 
 
@@ -42,7 +42,7 @@
 
     angular移动端:   vue类似出了好多，仿造QQ音乐播放器  https://github.com/shenzekun/vue-qq-music 
 
-6. 经常需要去看和学习的地方:
+6. **经常需要去看和学习的地方**:
         
     优秀的开源代码:  https://github.com
 
@@ -59,4 +59,4 @@
 
 1.  以公司业务需求，实现利润为核心！ （重要且紧急）
 
-2.  基于基础组件，业务组件实现业务通用框架
+2.  基于基础组件，业务组件实现**业务通用框架**
