@@ -8,7 +8,15 @@
 
 2. 前端工具集成： 
 
-    代码管理工具(gitlab/git/svn)， 接口工具(RAP)， 包管理工具(npm,yarn), 自动化工具(webpack), 测试工具(karma,  protractor)
+    代码管理工具(gitlab/git/svn)
+    
+    接口工具(RAP)
+    
+    包管理工具(npm,yarn)
+    
+    自动化工具(webpack)
+    
+    测试工具(karma,  protractor)
 
 3. UI设计:  样式框架(pc, app多端)
 
