@@ -1,6 +1,6 @@
 ### 前端发展历程 
 
-1. **玉伯大神**： https://github.com/lifesinger/blog/issues/184 
+1. **玉伯大神**： <a href="https://github.com/lifesinger/blog/issues/184" target="_blank">https://github.com/lifesinger/blog/issues/184</a>
 
 ### 长期阶段（这个基础没做起来，翻动起来消耗公司资源）
 
@@ -20,11 +20,11 @@
 
 3. **UI设计**:  样式框架(pc, app多端)
 
-    视觉动画: https://ant.design/docs/spec/values-cn 
+    视觉动画: <a href="https://ant.design/docs/spec/values-cn" target="_blank">https://ant.design/docs/spec/values-cn</a>
 
 3. **基础组件**: 基于UI设计的样式框架的基础组件(pc, app多端)
 
-    API完善:  https://ng.ant.design/#/docs/angular/introduce
+    API完善:  <a href="https://ng.ant.design/#/docs/angular/introduce" target="_blank">https://ng.ant.design/#/docs/angular/introduce</a>
 
 4. **业务组件**: 基于【基础组件】和【业务需求】开发的业务组件(pc, app多端)
 
