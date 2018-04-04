@@ -115,6 +115,8 @@
 * JS 详解 Cookie、 LocalStorage 与 SessionStorage： https://www.cnblogs.com/minigrasshopper/p/8064367.html
 
 * 跨域解决方案二：使用JSONP实现跨域： https://www.cnblogs.com/choon/p/5393682.html
+
+* Chrom查看Flash缓存文件及Flash下载方法： https://www.cnblogs.com/EasonJim/p/6800610.html
    
 ## CSS
 
