@@ -29,3 +29,5 @@ Angular 4.x FAQ修仙 https://segmentfault.com/a/1190000009099653  https://gith
 rxjs文档： https://github.com/buctwbzs/RxJS-Chinese
 
 The 7-step routing process: https://www.jvandemo.com/the-7-step-process-of-angular-router-navigation/
+
+异步任务管理神器-zone.js：https://blog.csdn.net/github_39212680/article/details/73410009
