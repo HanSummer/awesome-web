@@ -1,5 +1,7 @@
 ## Rxjs 
 
+1. 引用处： https://segmentfault.com/a/1190000011801043 (魔法博士)
+
 <p><a href="http://reactivex.io/rxjs/" rel="nofollow noreferrer" target="_blank">Rxjs的官网</a>，最权威的资料</p>
 
 <p><a href="https://www.gitbook.com/book/buctwbzs/rxjs/details" rel="nofollow noreferrer" target="_blank">Rxjs的官方文档翻译</a>，写得非常之深入，值得好好研读</p>
