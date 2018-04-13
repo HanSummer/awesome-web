@@ -1,6 +1,6 @@
 ## Rxjs 
 
-1. 引用处： https://segmentfault.com/a/1190000011801043 (魔法博士)
+### 引用处： https://segmentfault.com/a/1190000011801043 (魔法博士)
 
 <p><a href="http://reactivex.io/rxjs/" rel="nofollow noreferrer" target="_blank">Rxjs的官网</a>，最权威的资料</p>
 
