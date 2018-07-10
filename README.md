@@ -128,6 +128,10 @@
 
 * 你可能不需要 jQuery (You Might Not Need jQuery): https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md
 
+## 前端架构
+
+* 界面之下：还原真实的MV*模式： https://github.com/livoras/blog/issues/11
+
 ## UI库
 
 * 饿了么: https://github.com/elemefe  https://github.com/ElemeFE/element
