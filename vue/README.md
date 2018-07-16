@@ -63,3 +63,4 @@
 * Vue 源码分析
 
     Vue.js 源码解析 https://github.com/answershuto/learnVue
+    Vue2.1.7源码学习： https://www.cnblogs.com/libin-1/p/6845669.html
