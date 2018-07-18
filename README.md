@@ -128,6 +128,14 @@
 
 * 你可能不需要 jQuery (You Might Not Need jQuery): https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md
 
+## 正则表达式
+
+* 深入理解正则表达式： https://www.cnblogs.com/lizhenlin/p/6654934.html
+
+* 【干货】五分钟，正则表达式不再是你的烦恼: https://www.jianshu.com/p/4f258d81ff4c
+
+* 正则表达式分组()、不捕获(?:)和断言(?<=)详解: https://www.cnblogs.com/leezhxing/p/4333773.html
+
 ## 前端架构
 
 * 界面之下：还原真实的MV*模式： https://github.com/livoras/blog/issues/11
