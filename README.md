@@ -140,6 +140,8 @@
 
 * 界面之下：还原真实的MV*模式： https://github.com/livoras/blog/issues/11
 
+* 《浅谈架构之路：前后端分离模式》: https://www.cnblogs.com/shanrengo/p/6397734.html
+
 ## UI库
 
 * 饿了么: https://github.com/elemefe  https://github.com/ElemeFE/element
