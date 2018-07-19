@@ -142,6 +142,10 @@
 
 * 《浅谈架构之路：前后端分离模式》: https://www.cnblogs.com/shanrengo/p/6397734.html
 
+## 前端规范
+
+* alloyteam： http://alloyteam.github.io/CodeGuide/
+
 ## UI库
 
 * 饿了么: https://github.com/elemefe  https://github.com/ElemeFE/element
