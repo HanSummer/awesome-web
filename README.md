@@ -197,4 +197,6 @@
 
 * Web 研发模式演变: https://github.com/lifesinger/blog/issues/184
 
+* Vue源码分析： https://github.com/zyl1314/blog/issues
+
 
