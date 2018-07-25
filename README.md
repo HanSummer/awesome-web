@@ -203,4 +203,6 @@
 
 * Vue源码分析： https://github.com/zyl1314/blog/issues
 
+* javascript原理分析： https://github.com/Troland/how-javascript-works 
+
 
