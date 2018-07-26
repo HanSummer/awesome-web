@@ -205,4 +205,6 @@
 
 * javascript原理分析： https://github.com/Troland/how-javascript-works 
 
+* spinners: https://github.com/yangshun/awesome-spinners
+
 
