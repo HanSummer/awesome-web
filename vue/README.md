@@ -64,3 +64,7 @@
 
     Vue.js 源码解析 https://github.com/answershuto/learnVue
     Vue2.1.7源码学习： https://www.cnblogs.com/libin-1/p/6845669.html
+    
+* Vue.js是如何做到数据响应的？
+
+    http://web.jobbole.com/95035/
