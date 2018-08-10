@@ -117,7 +117,9 @@
 * 跨域解决方案二：使用JSONP实现跨域： https://www.cnblogs.com/choon/p/5393682.html
 
 * Chrom查看Flash缓存文件及Flash下载方法： https://www.cnblogs.com/EasonJim/p/6800610.html
-   
+
+* 一篇文章理解JS继承——原型链/构造函数/组合/原型式/寄生式/寄生组合/Class extends：http://web.jobbole.com/95004/
+   
 ## CSS
 
 * web app变革之rem: https://isux.tencent.com/web-app-rem.html
