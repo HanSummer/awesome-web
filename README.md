@@ -42,6 +42,8 @@
 
 * 彻底弄懂HTTP缓存机制及原理: https://www.cnblogs.com/chenqf/p/6386163.html
 
+* 图解传说中的HTTP协议（一）： https://www.toutiao.com/i6480290584140448269/
+
 ## websocket
 
 * websocket教程（一） 非常有趣的理解websocket: https://www.cnblogs.com/tohxyblog/p/7112917.html
