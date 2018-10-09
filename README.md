@@ -42,7 +42,9 @@
 
 * 彻底弄懂HTTP缓存机制及原理: https://www.cnblogs.com/chenqf/p/6386163.html
 
-* 图解传说中的HTTP协议（一）： https://www.toutiao.com/i6480290584140448269/
+* 图解传说中的HTTP协议（一）： https://www.toutiao.com/i6480290584140448269/ 
+
+  https://www.toutiao.com/i6487535450104791566/
 
 ## websocket
 
