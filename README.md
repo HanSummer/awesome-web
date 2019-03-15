@@ -225,4 +225,6 @@
 
 * 2018 年 Web 开发者路线图：最全的教程、资源和在线课程: https://36kr.com/p/5120748.html
 
+* 现代化前端工程师权威指南 https://guoyongfeng.github.io/book/
+
 
