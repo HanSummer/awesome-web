@@ -228,3 +228,7 @@
 * 现代化前端工程师权威指南 https://guoyongfeng.github.io/book/
 
 
+## 开发工具
+
+* IntelliJ IDEA几种激活方式 https://blog.csdn.net/justszh/article/details/81484802
+
