@@ -229,6 +229,7 @@
 
 * 学习资料：https://github.com/f2e-awesome/knowledge
 
+* 前端技能： https://github.com/JacksonTian/fks
 
 ## 开发工具
 
