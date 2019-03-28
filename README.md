@@ -227,6 +227,8 @@
 
 * 现代化前端工程师权威指南 https://guoyongfeng.github.io/book/
 
+* 学习资料：https://github.com/f2e-awesome/knowledge
+
 
 ## 开发工具
 
