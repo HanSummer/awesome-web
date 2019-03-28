@@ -235,6 +235,8 @@
 
 * 一像素： https://github.com/git-onepixel
 
+* javscript全栈：javascript可以用在各个领域（序）： http://www.cnblogs.com/fang9159/p/6636162.html
+
 ## 开发工具
 
 * IntelliJ IDEA几种激活方式 https://blog.csdn.net/justszh/article/details/81484802
