@@ -10,6 +10,8 @@
 
 * https://www.zhihu.com/explore
 
+* https://github.com/jsfront
+
 ## Module
 
 * 模块化理解: http://www.ruanyifeng.com/blog/2012/10/asynchronous_module_definition.html
