@@ -241,3 +241,7 @@
 
 * IntelliJ IDEA几种激活方式 https://blog.csdn.net/justszh/article/details/81484802
 
+## 面试题
+
+* es6面试题：https://www.cnblogs.com/fengxiongZz/p/8191503.html
+
