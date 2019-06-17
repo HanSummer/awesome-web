@@ -239,6 +239,8 @@
 
 * javscript全栈：javascript可以用在各个领域（序）： http://www.cnblogs.com/fang9159/p/6636162.html
 
+* ES6、ES7、ES8、ES9、ES10新特性一览：https://juejin.im/post/5ca2e1935188254416288eb2#heading-18
+
 ## 开发工具
 
 * IntelliJ IDEA几种激活方式 https://blog.csdn.net/justszh/article/details/81484802
