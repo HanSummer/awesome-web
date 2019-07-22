@@ -133,6 +133,8 @@
 * JS中的继承(上)：https://segmentfault.com/a/1190000014476341  https://github.com/noahlam/articles
 
 * 一篇文章理解Web缓存：http://web.jobbole.com/95057/
+
+* 最详尽的 JS 原型与原型链终极详解，没有「可能是」。（一）: https://www.jianshu.com/p/dee9f8b14771 
    
 ## CSS
 
