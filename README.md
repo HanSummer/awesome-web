@@ -213,6 +213,8 @@
 
 * 2018最新Web前端经典面试试题及答案: http://blog.csdn.net/wdlhao/article/details/79079660
 
+* 前端工程师面试必备（持续更新中）: https://juejin.im/post/5cd0bdfc6fb9a031f10ca08c?utm_source=gold_browser_extension 
+
 ## Blog
 
 * dwqs/blog: https://github.com/dwqs/blog/issues
