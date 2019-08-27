@@ -257,6 +257,8 @@
 
 * 移动端1像素边框问题：https://www.jianshu.com/p/fa670b737a29
 
+* 让虚拟DOM和DOM-diff不再成为你的绊脚石： https://juejin.im/post/5c8e5e4951882545c109ae9c
+
 ## UI设计工具
 
 * 蓝湖：https://lanhuapp.com
