@@ -259,6 +259,8 @@
 
 * 让虚拟DOM和DOM-diff不再成为你的绊脚石： https://juejin.im/post/5c8e5e4951882545c109ae9c
 
+* 前端优化：浏览器缓存技术介绍：https://juejin.im/post/5b9346dcf265da0aac6fbe57#heading-3
+
 ## UI设计工具
 
 * 蓝湖：https://lanhuapp.com
