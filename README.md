@@ -261,6 +261,8 @@
 
 * 前端优化：浏览器缓存技术介绍：https://juejin.im/post/5b9346dcf265da0aac6fbe57#heading-3
 
+* 前端 100 问：能搞懂 80% 的请把简历给我：https://juejin.im/post/5d23e750f265da1b855c7bbe
+
 ## UI设计工具
 
 * 蓝湖：https://lanhuapp.com
