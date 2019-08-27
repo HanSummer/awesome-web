@@ -253,7 +253,9 @@
 
 * es6面试题：https://www.cnblogs.com/fengxiongZz/p/8191503.html
 
-* 移动端适配：https://segmentfault.com/a/1190000019138515
+* 移动端适配：https://segmentfault.com/a/1190000019138515 
+
+* 移动端1像素边框问题：https://www.jianshu.com/p/fa670b737a29
 
 ## UI设计工具
 
