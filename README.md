@@ -263,6 +263,8 @@
 
 * 前端 100 问：能搞懂 80% 的请把简历给我：https://juejin.im/post/5d23e750f265da1b855c7bbe
 
+* Vue + Element UI 实现权限管理系统 前端篇（十三）：页面权限控制：https://www.cnblogs.com/xifengxiaoma/p/9649895.html
+
 ## UI设计工具
 
 * 蓝湖：https://lanhuapp.com
