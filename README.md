@@ -245,6 +245,8 @@
 
 * ES6、ES7、ES8、ES9、ES10新特性一览：https://juejin.im/post/5ca2e1935188254416288eb2#heading-18
 
+* 一个程序员的成长之路： https://github.com/fouber/blog/issues/41
+
 ## 开发工具
 
 * IntelliJ IDEA几种激活方式 https://blog.csdn.net/justszh/article/details/81484802
