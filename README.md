@@ -287,5 +287,8 @@
 
 * 前端该如何准备数据结构和算法？： https://juejin.im/post/5d5b307b5188253da24d3cd1?utm_source=gold_browser_extension#heading-32
 
+## 测试
+
+* 在VS Code中调试Jest单元测试：https://blog.csdn.net/anonym/article/details/78511186
 
 
