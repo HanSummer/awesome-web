@@ -144,6 +144,8 @@
 
 * 手淘flexible适配终端方案（一）：https://blog.csdn.net/aron_H1/article/details/83051163
 
+* 关于dpr的理解：https://www.cnblogs.com/liujn0829/p/7909218.html
+
 ## Replace jQuery
 
 * 你可能不需要 jQuery (You Might Not Need jQuery): https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md
