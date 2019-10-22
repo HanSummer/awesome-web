@@ -26,6 +26,8 @@
 
 * javascript模块化之CommonJS、AMD、CMD、UMD、ES6  http://blog.csdn.net/Real_Bird/article/details/54869066
 
+* module.exports与exports，export与export default之间的关系和区别: https://www.cnblogs.com/fayin/p/6831071.html
+
 ## Router
 
 * 原生JS实现一个简单的前端路由（路由实现的原理）: http://blog.csdn.net/sunxinty/article/details/52586556
