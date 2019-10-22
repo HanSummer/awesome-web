@@ -142,6 +142,8 @@
 
 * PostCSS 是个什么鬼东西？ https://segmentfault.com/a/1190000003909268
 
+* 手淘flexible适配终端方案（一）：https://blog.csdn.net/aron_H1/article/details/83051163
+
 ## Replace jQuery
 
 * 你可能不需要 jQuery (You Might Not Need jQuery): https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md
