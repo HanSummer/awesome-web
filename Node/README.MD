@@ -21,3 +21,5 @@
 
 8.mongodb msi: https://www.mongodb.org/dl/win32/x86_64-2008plus-ssl
 
+9.Nodejs学习路线图：http://blog.fens.me/nodejs-roadmap/
+
