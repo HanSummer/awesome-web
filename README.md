@@ -146,6 +146,8 @@
 
 * 关于dpr的理解：https://www.cnblogs.com/liujn0829/p/7909218.html
 
+* rem布局原理深度理解（以及em/vw/vh）：https://www.cnblogs.com/leaf930814/p/9059340.html
+
 ## Replace jQuery
 
 * 你可能不需要 jQuery (You Might Not Need jQuery): https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md
