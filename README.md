@@ -255,6 +255,8 @@
 
 * 一个程序员的成长之路： https://github.com/fouber/blog/issues/41
 
+* 科学上网：https://github.com/cbxs123/cbxs123.github.io/
+
 ## 开发工具
 
 * IntelliJ IDEA几种激活方式 https://blog.csdn.net/justszh/article/details/81484802
