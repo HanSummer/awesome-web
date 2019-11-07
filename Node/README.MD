@@ -23,3 +23,11 @@
 
 9.Nodejs学习路线图：http://blog.fens.me/nodejs-roadmap/
 
+10. 手把手教你使用nodejs编写cli(命令行)：
+
+https://www.jianshu.com/p/095c968d406f 
+
+https://www.jianshu.com/p/cab0ab31fc4f
+
+https://www.jianshu.com/p/a99f59f71951
+
