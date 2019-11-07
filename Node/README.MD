@@ -31,3 +31,5 @@ https://www.jianshu.com/p/cab0ab31fc4f
 
 https://www.jianshu.com/p/a99f59f71951
 
+11. window上搭建npm私仓（verdaccio）: https://blog.csdn.net/sunxiaoju/article/details/88565353
+
